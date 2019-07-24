@@ -796,7 +796,7 @@ También se puede desestructurar el parámetro ya que sólo nos interesa la edad
 
 ```javascript
 
-	const esMayorDeEdad =  ({edad}) => persona >= MAYORIA_DE_EDAD
+	const esMayorDeEdad =  ({edad}) => edad >= MAYORIA_DE_EDAD
 
 ```
 
